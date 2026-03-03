@@ -1,0 +1,6 @@
+{
+  "active_backend_url": "https://novo-backend-reserva.zoikom.shop",
+  "min_version_required": "v2.0.0",
+  "update_message": "Atualização de segurança obrigatória! Baixe a nova versão no site signidigital.com",
+  "force_update_link": "https://signidigital.com/download"
+}
